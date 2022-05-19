@@ -1,0 +1,15 @@
+C:\Users\soare\Documents\Projetos\Projetos\bin\Debug\net6.0\Projetos.exe
+C:\Users\soare\Documents\Projetos\Projetos\bin\Debug\net6.0\Projetos.deps.json
+C:\Users\soare\Documents\Projetos\Projetos\bin\Debug\net6.0\Projetos.runtimeconfig.json
+C:\Users\soare\Documents\Projetos\Projetos\bin\Debug\net6.0\Projetos.dll
+C:\Users\soare\Documents\Projetos\Projetos\bin\Debug\net6.0\Projetos.pdb
+C:\Users\soare\Documents\Projetos\Projetos\obj\Debug\net6.0\Projetos.csproj.AssemblyReference.cache
+C:\Users\soare\Documents\Projetos\Projetos\obj\Debug\net6.0\Projetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\Documents\Projetos\Projetos\obj\Debug\net6.0\Projetos.AssemblyInfoInputs.cache
+C:\Users\soare\Documents\Projetos\Projetos\obj\Debug\net6.0\Projetos.AssemblyInfo.cs
+C:\Users\soare\Documents\Projetos\Projetos\obj\Debug\net6.0\Projetos.csproj.CoreCompileInputs.cache
+C:\Users\soare\Documents\Projetos\Projetos\obj\Debug\net6.0\Projetos.dll
+C:\Users\soare\Documents\Projetos\Projetos\obj\Debug\net6.0\refint\Projetos.dll
+C:\Users\soare\Documents\Projetos\Projetos\obj\Debug\net6.0\Projetos.pdb
+C:\Users\soare\Documents\Projetos\Projetos\obj\Debug\net6.0\Projetos.genruntimeconfig.cache
+C:\Users\soare\Documents\Projetos\Projetos\obj\Debug\net6.0\ref\Projetos.dll
